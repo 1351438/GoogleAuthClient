@@ -1,0 +1,5 @@
+.idea
+src/data/keys.json
+src/composer.lock
+php
+src/vendor
